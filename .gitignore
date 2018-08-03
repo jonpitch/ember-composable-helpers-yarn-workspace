@@ -1,0 +1,7 @@
+node_modules/
+addon/node_modules/
+addon/dist/
+addon/tmp/
+application/node_modules/
+application/dist/
+application/tmp/

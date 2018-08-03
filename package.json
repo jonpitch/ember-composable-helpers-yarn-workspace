@@ -1,0 +1,13 @@
+{
+    "name": "ember-composable-helpers-yarn-workspace",
+    "version": "0.0.1",
+    "description": "",
+    "private": true,
+    "scripts": { },
+    "engines": { },
+    "license": "UNLICENSED",
+    "workspaces": [
+        "application",
+        "addon"
+    ]
+}
